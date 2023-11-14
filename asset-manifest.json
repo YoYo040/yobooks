@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yobooks/static/css/main.f855e6bc.css",
+    "main.js": "/yobooks/static/js/main.bc12027d.js",
+    "static/js/787.3f662ac0.chunk.js": "/yobooks/static/js/787.3f662ac0.chunk.js",
+    "static/media/logo.svg": "/yobooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yobooks/index.html",
+    "main.f855e6bc.css.map": "/yobooks/static/css/main.f855e6bc.css.map",
+    "main.bc12027d.js.map": "/yobooks/static/js/main.bc12027d.js.map",
+    "787.3f662ac0.chunk.js.map": "/yobooks/static/js/787.3f662ac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bc12027d.js"
+  ]
+}
