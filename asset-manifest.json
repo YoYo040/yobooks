@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yobooks/static/css/main.f6a26181.css",
-    "main.js": "/yobooks/static/js/main.7afb092d.js",
+    "main.js": "/yobooks/static/js/main.1031895f.js",
     "static/js/787.3f662ac0.chunk.js": "/yobooks/static/js/787.3f662ac0.chunk.js",
     "static/media/library-img.png": "/yobooks/static/media/library-img.e158739156de1af19844.png",
     "static/media/cover_not_found.jpg": "/yobooks/static/media/cover_not_found.69846940c7af3e651508.jpg",
@@ -10,11 +10,11 @@
     "index.html": "/yobooks/index.html",
     "static/media/loader.svg": "/yobooks/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
     "main.f6a26181.css.map": "/yobooks/static/css/main.f6a26181.css.map",
-    "main.7afb092d.js.map": "/yobooks/static/js/main.7afb092d.js.map",
+    "main.1031895f.js.map": "/yobooks/static/js/main.1031895f.js.map",
     "787.3f662ac0.chunk.js.map": "/yobooks/static/js/787.3f662ac0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6a26181.css",
-    "static/js/main.7afb092d.js"
+    "static/js/main.1031895f.js"
   ]
 }
